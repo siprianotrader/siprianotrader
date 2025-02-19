@@ -41,4 +41,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Pedro Sipriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Pedro_Sipriano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrosipriano&show_icons=true&theme=dracula)
