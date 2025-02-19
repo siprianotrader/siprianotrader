@@ -1,20 +1,19 @@
-<h1>👋 &nbsp;Olá, eu sou o Pedro Sipriano, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Pedro Sipriano, um desenvolvedor full stack apaixonado por transformar ideias em realidade!</h1>
 <p align="center">
 <a href="https://instagram.com/siprianoweb"><img src="https://img.shields.io/badge/-@siprianoweb-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://siprianoweb.com.br"><img src="https://img.shields.io/badge/-siprianoweb.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.youtube.com/siprianoweb"><img src="https://img.shields.io/badge/-siprianoweb-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/siprianoweb"><img src="https://img.shields.io/badge/-Pedro%20Sipriano-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:siprianoweb@gmail.com"><img src="https://img.shields.io/badge/-siprianoweb@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;Sobre Mim </h2>
 
-- 👨🏻‍💻 &nbsp; Sou estudante de Engenharia de Software e tenho 32 anos. Meu primeiro contato com programação foi aos 15 anos, quando comecei a explorar o mundo do desenvolvimento. Desde então, nunca parei de aprender e criar.
-- 💻 &nbsp; Ao longo dos anos, trabalhei com diversas tecnologias e frameworks, sempre buscando me aprimorar e me manter atualizado com as tendências do mercado.
-- 🚀 &nbsp; Atualmente, meu foco principal é o desenvolvimento full stack, utilizando tecnologias modernas como JavaScript, Node.js, React e React Native.
-- 🎓 &nbsp; Como estudante de Engenharia de Software, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores.
-- 🏎 &nbsp; No meu tempo livre, gosto de me dedicar a projetos pessoais, estudar novas tecnologias e, claro, curtir um bom simulador de corridas.
+- 👨🏻‍💻 &nbsp; Sou um **estudante de Engenharia de Software** com 32 anos e uma paixão que começou aos 15, quando dei meus primeiros passos no mundo da programação. Desde então, venho construindo uma jornada repleta de aprendizado e criação.
+- 💻 &nbsp; Ao longo dos anos, mergulhei em diversas tecnologias e frameworks, sempre buscando me aprimorar e me manter à frente das tendências do mercado. Adoro desafios que me fazem crescer!
+- 🚀 &nbsp; Atualmente, meu foco é o **desenvolvimento full stack**, utilizando tecnologias modernas como **JavaScript, Node.js, React e React Native**. Amo criar soluções que unem design, funcionalidade e performance.
+- 🎓 &nbsp; Como estudante de Engenharia de Software, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos e contribuir para projetos inovadores que impactam vidas.
+- 🏎 &nbsp; Nos meus momentos de descontração, você me encontra explorando **simuladores de corrida** (sou um entusiasta de Fórmula 1!) ou desenvolvendo projetos pessoais que unem tecnologia e criatividade.
 
 <h2> 🛠 &nbsp;Tecnologias</h2>
 <h3>💻 &nbsp;Front-end:</h3>
